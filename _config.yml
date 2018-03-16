@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Harpreet's Blog
+title:            Blog
 tagline:          'Harpreet writes Software'
 description:      'Hello, I am Harpreet. I build Software and tinker with things.'
 url:              https://harpreetsingh91.github.io/blog
