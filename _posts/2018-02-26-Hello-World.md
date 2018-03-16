@@ -1,13 +1,15 @@
 ---
 published: true
+layout: post
+title: Hello World!
+excerpt_separator:  <!--more-->
 ---
-## Hello World!
 
 It's 2018 and I finally have a blog (again). I've discovered Jekyll and the integration with Prose is pretty cool.
 
 I don't want to hate on Wordpress because it wasn't that bad. But after playing around with Jekyll , I realize what I was missing. I never really enjoyed using the very rigid wordpress.com blogs. Self hosted wordpress.org blogs met my every need, well mostly.
 
-But after using Jekyll I realize how I didn't really enjoy having those themes that got hacked and basically how I had that huge bloated CMS to just serve mostly static pages. (2008 me actually really loved Wordpress. I learned so much messing with and creating Wordpress themes and plugins. Those wordpress themes and sites did teach me a lot. And Wordpress isn't insecure by itself. Any popular platform is a target for hackers, but a Jekyll blog is just static pages.)
+But after using Jekyll I realize how I <!--more--> didn't really enjoy having those themes that got hacked and basically how I had that huge bloated CMS to just serve mostly static pages. (2008 me actually really loved Wordpress. I learned so much messing with and creating Wordpress themes and plugins. Those wordpress themes and sites did teach me a lot. And Wordpress isn't insecure by itself. Any popular platform is a target for hackers, but a Jekyll blog is just static pages.)
 
 This post is just a "Hello World" and not a scientific comparison, but if you are looking for a platform to build a blog on, here is why Jekyll is good:
 - Wordpress is overkill. It is a great CMS, but for a blog, it is beyond what most people need/use.
