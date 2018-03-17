@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+title: Using Drake's lyrics to generate rap verses
+excerpt_separator:  <!--more-->
 ---
 
 Markov chains are a very interesting concept and are used to model and understand real world processes like music, speech and text. In this post we will go over a simple task to explain how Markov Models work.
