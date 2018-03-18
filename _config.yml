@@ -15,7 +15,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'Harpreet Singh'
-  url:            #
+  url:            http://harpreetcodes.com
 
 paginate:         5
 # paginate_path:    '/page:num'
