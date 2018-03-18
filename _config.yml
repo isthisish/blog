@@ -35,3 +35,6 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 github:
   repo:             https://github.com/harpreetsingh91/
+
+disqus:
+  shortname: disqus_bem7iS6fbw
