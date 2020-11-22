@@ -5,6 +5,6 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! I am Harpreet. I am a Software Developer and currently a graduate student in Computer Science at University Of Victoria.
+  Hey there! I am Ish.
 </p>
 
